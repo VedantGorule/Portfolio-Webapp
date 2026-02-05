@@ -1,0 +1,48 @@
+Create a modern, professional portfolio website that converts my LinkedIn profile PDF into a beautiful static site.
+Requirements
+Core Functionality:
+Parse the LinkedIn PDF to extract my profile information (name, headline, experience, education, skills, etc.)
+Allow me to upload 2-3 personal images to use in the hero/about section
+Generate a clean, single-page portfolio with smooth scrolling navigation
+Design & Style:
+Modern, professional aesthetic with a bold color scheme
+Fully responsive design (mobile, tablet, desktop)
+Use tasteful emojis as section icons
+Professional typography with good hierarchy
+Sections to Include:
+Hero/Landing: Large header with my photo, name, tagline, and CTA buttons
+About: Personal intro with uploaded image(s)
+Experience: Timeline/card layout of work history
+Skills: Visual display (tags, progress bars, or grid)
+Education: Clean presentation of degrees/certifications
+Contact: Simple contact form or links to social profiles
+Technical:
+Pure HTML, CSS, and JavaScript (no frameworks needed)
+Smooth scroll behavior and intersection observer animations
+Optimized images and fast loading
+Include a subtle particle effect or gradient background
+Make it visually impressive while maintaining professionalism - something that would make a recruiter stop and say "wow."
+make a projects section with same css and that these projects
+AI-Powered Document Q&A System | Python, FastAPI, LangChain, FAISS, OpenAI API, React
+• Built a RAG-based (Retrieval-Augmented Generation) system to answer queries from PDFs and CSV documents
+• Implemented vector embeddings and semantic search using FAISS for efficient document retrieval
+• Reduced manual search effort by 70% through AI-driven intelligent document retrieval and question answering
+Terraform + AWS Infrastructure with Jenkins CI/CD | Terraform, Jenkins, Docker, AWS, Python
+• Provisioned a secure 3-tier AWS infrastructure using Terraform with automated CI/CD pipeline for containerized
+applications
+• Implemented infrastructure as code with AWS VPC, ECS, RDS, ECR, and IAM for security and scalability
+• Achieved automated, secure deployments with rollback capability, reducing manual provisioning time and minimizing
+downtime
+Blockchain-based Pharmaceutical Supply Chain | Blockchain, Smart Contracts, Solidity
+• Developed a decentralized supply chain management system for pharmaceutical products using blockchain technology
+• Implemented smart contracts to ensure transparency, traceability, and authenticity throughout the supply chain
+• Enhanced security and reduced counterfeit risks through distributed ledger technology
+AWS-Powered CRUD Platform | AWS, Node.js, DynamoDB, Lambda
+• Built a scalable cloud-based CRUD application leveraging AWS services including Lambda, DynamoDB, and API
+Gateway
+• Implemented serverless architecture for cost optimization and automatic scaling
+• Designed RESTful APIs with robust error handling and data validation
+Computer Vision Exercise Tracking Tool | Python, OpenCV, MediaPipe, TensorFlow
+• Developed an AI-powered exercise tracking application using computer vision and pose estimation algorithms
+• Implemented real-time form correction and rep counting features using MediaPipe and OpenCV
+• Achieved 90%+ accuracy in exercise recognition and form analysis
